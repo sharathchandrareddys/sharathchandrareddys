@@ -20,7 +20,7 @@
 
 ```yaml
 name: Sarath Chandra Reddy C
-role: Cloud Security Engineer @ US Bank
+role: Cloud Security Engineer
 experience: 10+ years in Enterprise IT Infrastructure
 education: M.S. Information Assurance & Cybersecurity — Nova Southeastern University
 focus:
