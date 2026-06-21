@@ -14,9 +14,7 @@
 ---
 
 <!-- Replace the line below with your animated poster GIF once generated -->
-<!-- <img src="Assets/output.gif" width="100%" alt="Sarath Superhero Banner" /> -->
-
----
+<img src="Assets/output.gif" width="100%" alt="Sarath Superhero Banner" />
 
 ## 🚀 About Me
 
