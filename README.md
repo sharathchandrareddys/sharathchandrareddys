@@ -22,7 +22,6 @@
 
 ```yaml
 name: Sarath Chandra Reddy C
-location: Pembroke Pines, FL, USA
 role: Cloud Security Engineer @ US Bank
 experience: 10+ years in Enterprise IT Infrastructure
 education: M.S. Information Assurance & Cybersecurity — Nova Southeastern University
