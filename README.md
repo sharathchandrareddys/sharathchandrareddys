@@ -135,8 +135,6 @@ published: "A Strategic Approach to Harden Network Security Using the NIST Frame
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sharathchandrareddys&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
-
 </div>
 
 ---
